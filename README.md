@@ -39,5 +39,5 @@ A modern, interactive web dashboard designed to display detailed statistics for 
 To run this project locally, follow the steps below:
 
 ```bash
-git clone https://github.com/nilav-talukdar/leetmetric.git
+git clone https://github.com/FaizMullyPra/Leetcode-Metrices.git
 cd leetcode-stats-dashboard
