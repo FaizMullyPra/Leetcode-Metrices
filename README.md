@@ -41,3 +41,9 @@ To run this project locally, follow the steps below:
 ```bash
 git clone https://github.com/FaizMullyPra/Leetcode-Metrices.git
 cd leetcode-stats-dashboard
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [www.linkedin.com/in/mohd-faiz-0493bb2a7"]
+- **Instagram** - [www.instagram.com/mr_faiz_.official]
+
